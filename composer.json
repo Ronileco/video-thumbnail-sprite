@@ -1,5 +1,5 @@
 {
-  "name": "emgag/video-thumbnail-sprite",
+  "name": "ronileco/video-thumbnail-sprite",
   "description": "PHP library for generating video thumbnail sprites",
   "keywords": [
     "jwplayer",
@@ -7,7 +7,7 @@
     "ffmpeg",
     "ffmpegthumbnailer"
   ],
-  "homepage": "https://github.com/emgag/video-thumbnail-sprite",
+  "homepage": "https://github.com/ronileco/video-thumbnail-sprite",
   "type": "library",
   "require": {
     "php": "8.*|7.*",
