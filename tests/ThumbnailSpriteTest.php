@@ -1,10 +1,10 @@
 <?php
 
-use Emgag\Flysystem\Tempdir;
-use Emgag\Video\ThumbnailSprite\Thumbnailer\Ffmpeg;
-use Emgag\Video\ThumbnailSprite\Thumbnailer\FfmpegThumbnailer;
-use Emgag\Video\ThumbnailSprite\Thumbnailer\ThumbnailerInterface;
-use Emgag\Video\ThumbnailSprite\ThumbnailSprite;
+use ronileco\Flysystem\Tempdir;
+use ronileco\Video\ThumbnailSprite\Thumbnailer\Ffmpeg;
+use ronileco\Video\ThumbnailSprite\Thumbnailer\FfmpegThumbnailer;
+use ronileco\Video\ThumbnailSprite\Thumbnailer\ThumbnailerInterface;
+use ronileco\Video\ThumbnailSprite\ThumbnailSprite;
 use GuzzleHttp\Client;
 use Intervention\Image\Image;
 use Intervention\Image\ImageManagerStatic;

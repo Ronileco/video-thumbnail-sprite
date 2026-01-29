@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Emgag\Video\ThumbnailSprite\Thumbnailer;
+namespace ronileco\Video\ThumbnailSprite\Thumbnailer;
 
 
 interface ThumbnailerInterface

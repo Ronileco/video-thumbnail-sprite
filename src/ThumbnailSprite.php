@@ -1,14 +1,14 @@
 <?php
 declare(strict_types=1);
 
-namespace Emgag\Video\ThumbnailSprite;
+namespace ronileco\Video\ThumbnailSprite;
 
 use Captioning\Format\WebvttCue;
 use Captioning\Format\WebvttFile;
 use DateTime;
-use Emgag\Flysystem\Tempdir;
-use Emgag\Video\ThumbnailSprite\Thumbnailer\Ffmpeg;
-use Emgag\Video\ThumbnailSprite\Thumbnailer\ThumbnailerInterface;
+use ronileco\Flysystem\Tempdir;
+use ronileco\Video\ThumbnailSprite\Thumbnailer\Ffmpeg;
+use ronileco\Video\ThumbnailSprite\Thumbnailer\ThumbnailerInterface;
 use FFMpeg\FFProbe;
 use Intervention\Image\ImageManagerStatic as Image;
 use League\Flysystem\Plugin\ListFiles;

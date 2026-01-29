@@ -26,7 +26,7 @@ composer require emgag/video-thumbnail-sprite
 
 
 ```PHP
-use Emgag\Video\ThumbnailSprite\ThumbnailSprite;
+use ronileco\Video\ThumbnailSprite\ThumbnailSprite;
 
 $sprite = new ThumbnailSprite();
 $ret = $sprite->setSource('path-to-source-video.mp4')
